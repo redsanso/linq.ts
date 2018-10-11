@@ -59,7 +59,7 @@ In più fatto:
 
 
 
-import * as Exceptions from "./linq-exceptions"
+import * as Exceptions from "linq-exceptions"
 
 
 
